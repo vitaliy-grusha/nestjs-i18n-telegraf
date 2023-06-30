@@ -1,16 +1,16 @@
 {
   "name": "nestjs-i18n",
-  "version": "10.2.6",
+  "version": "10.3.0",
   "homepage": "https://nestjs-i18n.com",
-  "description": "The i18n module for Nest.",
-  "author": "Toon van Strijp",
+  "description": "The i18n module for nestjs with support of nestjs-telegraf.",
+  "author": "Toon van Strijp & Vitaliy Grusha",
   "license": "MIT",
   "engines": {
     "node": ">=16"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ToonvanStrijp/nestjs-i18n"
+    "url": "https://github.com/vitaliy-grusha/nestjs-i18n-telegraf"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
