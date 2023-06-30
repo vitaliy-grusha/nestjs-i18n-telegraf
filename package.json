@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-i18n",
+  "name": "nestjs-i18n-telegraf",
   "version": "10.3.0",
   "homepage": "https://nestjs-i18n.com",
   "description": "The i18n module for nestjs with support of nestjs-telegraf.",
